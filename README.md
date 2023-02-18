@@ -16,6 +16,8 @@
 
 - 🌱 In my free time, Work on my project "brainfree" ,I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 
+- 📫 How to reach me: maximilianlamm.kontakt@outlook.de
+
 ## My stack
 
 <a href="https://docs.oracle.com/en/java/" target="blank"> 
