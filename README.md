@@ -54,9 +54,14 @@ alt=""></a>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" height="40" width="auto" 
 alt=""></a>
 
+<a href="https://nestjs.com/" target="blank"> 
+<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="40" width="auto" 
+alt=""></a>
+
 <a href="https://docs.npmjs.com/" target="blank"> 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" height="40" width="auto" 
 alt=""></a>
+
 <a href="https://docs.npmjs.com/" target="blank"> 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" height="40" width="auto" 
 alt=""></a>
