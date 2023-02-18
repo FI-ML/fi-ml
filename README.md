@@ -2,8 +2,6 @@
 <h1>Hi there 👋, I'm Maximilian Lamm</h1>
 </div>
 
-***
-
 <div align="center">
     <h3>A full-stack developer from Germany</h3>
     <img src="https://komarev.com/ghpvc/?username=FI-ML&style=flat-square&color=blue" alt=""/>
