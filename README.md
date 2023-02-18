@@ -74,7 +74,7 @@ alt=""></a>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" height="40" width="auto" 
 alt=""></a>
 
-***
+---
 
 ### My Stats
 
