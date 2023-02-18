@@ -1,15 +1,13 @@
-<h1 style="text-align: center">Hi there 👋, I'm Maximilian Lamm</h1>
+<div align="center">
+<h1>Hi there 👋, I'm Maximilian Lamm</h1>
+</div>
 
 ***
 
-<h3 style="text-align: center">A full-stack developer from Germany<h3>
-
-<span style="display:block;text-align:center">
+<div align="center">
+    <h3>A full-stack developer from Germany</h3>
     <img src="https://komarev.com/ghpvc/?username=FI-ML&style=flat-square&color=blue" alt=""/>
-</span>
-
-
-<br>
+</div>
 
 ## About me
 
@@ -78,14 +76,16 @@ alt=""></a>
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" height="40" width="auto" 
 alt=""></a>
 
-
 ***
 
 ### My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FI-ML&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FI-ML&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FI-ML&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **FI-ML/fi-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
