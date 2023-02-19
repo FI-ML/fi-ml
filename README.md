@@ -9,12 +9,13 @@
 
 ## About me
 
-- I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I work as a software engineer contributing to the front-end and back-end for building web applications.
+
 - 🔭 I’m currently working on: [brainfree-auth](https://github.com/FI-ML/brainfree-auth)
 
 - 🤔 I’m looking for help with dev ops themes
 
-- 🌱 In my free time, Work on my project "brainfree" ,I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
+- 🌱 In my free time I work on my project "brainfree", explore new technologies, read tech blogs and solve problems with data structures and algorithms.
 
 - 📫 How to reach me: maximilianlamm.kontakt@outlook.de
 
