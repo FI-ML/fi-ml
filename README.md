@@ -72,6 +72,10 @@ alt=""></a>
 <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" height="30" width="auto" 
 alt=""></a>
 
+<a href="https://yeoman.io/" target="blank"> 
+<img src="https://avatars.githubusercontent.com/u/1714870?s=280&v=4" height="30" width="auto" 
+alt=""></a>
+
 <a href="https://www.nginx.com/" target="blank"> 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" height="40" width="auto" 
 alt=""></a>
@@ -80,10 +84,12 @@ alt=""></a>
 
 ### My Stats
 
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FI-ML&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FI-ML&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FI-ML&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
